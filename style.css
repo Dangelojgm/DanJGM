@@ -1,0 +1,19 @@
+#cabecera {
+	background-image:url("https://cdn.glitch.com/734e52c6-6926-4e50-ae99-c5c07be09ef4%2Fcabecera1.webp?v=1612744745221");
+	height: 400px;
+	color: #ffff;
+	background-position: center;
+	background-size: cover;
+	background-color: rgb(0,0,0,0.5);
+	background-blend-mode: darken;
+}
+
+.portada {
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+#logfooter{
+	height: 100px;
+}
